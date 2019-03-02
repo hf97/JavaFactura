@@ -1,0 +1,20 @@
+- verificarDespesas - getclass equas getclass
+- corrigirClassificacaoAtividadeEconomicaDespesaIndividual - AtividadeEconomica atividadeNova inicializada erro ???
+- AtividadeEconomica atividadeNova inicializacao problemas ???
+- associarAtividadeEconomica fazer o ciclo entre outros
+- corrigir os ciclos dos iterators dos maps, em vez de percurrer todos os elemente parar quando encontrar o que precisa
+- atencao aos inputs: empresa, individual ou utilizador
+- alterar a função listaDespesaContribuinteOrdenadaDecrescenteDespesa
+- atencao aos comparators quando esta a compara valores iguais
+- alterar funcao montantededucaofiscal
+- corrigir comentarios
+- MONTANTEDEDUCOESFISCAIS SO PARA O ADMIN
+- montatededucaofiscal desconto de tipo de fatura e concelho mal implementado ???
+- Corrigir funcoes do montante de deducao fiscal
+
+FALTA
+- verificarMontanteDeducaoFiscal
+
+
+A FAZER
+-Criar excepcoes
